@@ -1,0 +1,16 @@
+
+
+
+body {
+    background-color: rgba(152, 131, 131, 0.566);
+}
+
+.navbar-name {
+    color:rgb(49, 27, 70);
+    font-size: 20px;
+}
+
+.card {
+    color: white;
+    background-color: rgba(69, 40, 40, 0.566);
+}
